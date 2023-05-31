@@ -1,1 +1,2 @@
 we are creating a new repository and learning how to clone it 
+step we are learning how to write git pull in git hub
